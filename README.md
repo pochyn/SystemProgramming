@@ -1,3 +1,9 @@
 # SystemProgramming
 
-Assignments and some labs for CSC209 in University of Toronto (UofT). Part of the code was provided by course instruction as a starter code, other then that it was written by me. There are some minor bugs in some of the codes.
+Assignments for one of the courses of University of Toronto (UofT). I used starter codes, provided by course instructors, as well as my code to finish them.  
+
+-- these assignemtns focuse on the interface between user programs and the operating system  
+-- created my working server, where clients can connect to the server and print messages  
+-- works with kernel  
+-- works with pipes  
+-- password validator  
